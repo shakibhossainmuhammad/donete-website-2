@@ -90,3 +90,33 @@
 .btn-amount {
   margin-top: 15px;
 }
+
+.donate-text {
+  text-align: center;
+}
+
+.donate-items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.donate-item {
+  background-color: bisque;
+  padding: 15px 20px;
+  border-radius: 5px;
+  margin-left: 20px;
+  margin-top: 50px;
+}
+
+.donate-item-title {
+  font-weight: 600;
+  font-size: 24px;
+  margin-top: 10px;
+}
+
+.donate-item-desc {
+  font-weight: 400;
+  font-size: 18px;
+  margin-top: 10px;
+}
